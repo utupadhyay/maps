@@ -33,7 +33,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="4CN-Ka-mM1"/>
                     <connections>
-                        <outlet property="myView" destination="f6x-6b-anZ" id="Rf3-wM-KlA"/>
+                        <outlet property="myView" destination="f6x-6b-anZ" id="rna-3s-GfB"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
